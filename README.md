@@ -15,13 +15,28 @@ Change tracking, Revertibility, collaboration, Accountability.
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 Step 1:
 Create a GitHib account
+Create GitHub account by going to the GitHub website and follow the sign in process.
 Step 2:Click on "+" button
+In the top right corner of the GitHub dashboard, click on the "+" buton to create new repository.
 Step 3: Choose a repository name
-Step 4: Choose repository descriptin
+Enter a unique and descriptive name for your repository, this will be te name that will appears in the URL of our repository.
+Step 4: Choose repository description
+Enter a brief description of your resipotary, this will help others to understand the purpose and content of your repository.
 Step 5: Choose repositor type
-Step : Initialize therepository with README File
-Step : 
+Choose whether your repository will be public or private,Public repositories are visible to anyone, while private repositories are only accessible to users you invite.
+Step 6: Initialize therepository with README File
+Choose whether to initialze your repository with a README file. A README file provides a brief introduction to your repository and its content.
+Step 7: Add a Git Ignore file (Optional) 
+Choose whether to add Git ignore file to your repository, A Git ignore file specifies file and directories that should be ignored by Git.
+Step 8:Choose a license (Optional) 
+Choose whether to add a licence to your repository. A license specifies the terms and coditions under which ohers can use and distribute your code. 
+Step 9: Create the repository
+click on the "Create repository" button to create new repository.
+Important decision to make during the process of setting up a new repository on GitHub:
+Repository name, repository type, License, Git Ignore file and README file
+  
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
+
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 
